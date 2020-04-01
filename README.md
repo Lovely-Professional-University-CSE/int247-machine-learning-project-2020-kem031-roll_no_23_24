@@ -4,6 +4,8 @@ Name:- Image segmentation with CamVid
 
 FrameWork Used:- Fastai which sits on top of Pytorch
 
+DataSet - CamVid Dataset
+
 Real World Use:- Basic CNN model essential for Autonomous Driving
 
 Made By- Priyansh Soniya - 11711808
