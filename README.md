@@ -4,7 +4,8 @@ Name:- Image segmentation with CamVid
 
 FrameWork Used:- Fastai which sits on top of Pytorch
 
-Real World Use:- Basic CNN modele essential for Autonomous Driving
+Real World Use:- Basic CNN model essential for Autonomous Driving
 
 Made By- Priyansh Soniya - 11711808
-         Rishi Raj Singh - 11711818
+         
+          Rishi Raj Singh - 11711818
