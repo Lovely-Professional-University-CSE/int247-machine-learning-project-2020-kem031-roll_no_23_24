@@ -13,6 +13,14 @@ Made By- Priyansh Soniya - 11711808
 
 Accuracy Achieved:- 93.5%
 
+Method To Try The Model:
+1. Clone The repo
+2. Run Without train model.ipynb
+3. Use any image of streets you like for predictions
+4. Leave rest of the code untouched.
+5. Can see the actual code in actual model.ipynb
+
+
 System Setup required to run the project:
 
 Open terminal on linux:
