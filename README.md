@@ -11,6 +11,8 @@ Real World Use:- Basic CNN model essential for Autonomous Driving
 Made By- Priyansh Soniya - 11711808
          Rishi Raj Singh - 11711818
 
+Accuracy Achieved:- 93.5%
+
 System Setup required to run the project:
 
 Open terminal on linux:
